@@ -2,8 +2,7 @@
 Instructions and supporting tools for training word embeddings for historical (ca. 1600 - 1900) 
 German based on the texts of the [Deutsches Textarchiv](http://www.deutschestextarchiv.de/) using [fastText](https://github.com/facebookresearch/fastText). 
 
-A compressed archive of the combined plain text, currently including *3,287* works, is provided [here](https://drive.google.com/file/d/1p_EKA6zb8VtmOI0s7nj1uEMhOTsHT991/view?usp=sharing) [351 MB]
-so that you can directly proceed with model training. A pre-trained model can be obtained from [here](https://drive.google.com/file/d/1MbOauFOhLGWud0OV9ACIYqTGTSnHqpD1/view?usp=sharing) [1,43 GB].
+A pre-trained model can be obtained [here](https://drive.google.com/file/d/1MbOauFOhLGWud0OV9ACIYqTGTSnHqpD1/view?usp=sharing) [1,43 GB].
 
 ### Linux
 1. Follow the instructions for [building fastText](https://github.com/facebookresearch/fastText#building-fasttext)
